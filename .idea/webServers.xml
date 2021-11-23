@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e7593c16-35f1-43f9-bcc7-cde6651b7923" name="tc-micro">
+        <fileTransfer rootFolder="/home/ubuntu/work/src/golab/gulimall" accessType="SFTP" host="1.116.33.143" port="22" sshConfigId="b58ff1e5-bd47-48bd-859d-1e9803e45e21" sshConfig="ubuntu@1.116.33.143:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

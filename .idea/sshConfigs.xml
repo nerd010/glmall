@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" id="a49269f8-2194-465f-b1b8-a85efe8a6f19" customName="tc-micro" nameFormat="CUSTOM">
+        <option name="customName" value="tc-micro" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
